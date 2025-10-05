@@ -1,1 +1,1 @@
-# meteor-madness-calculator
+# PROJECT FOR NASA SPACE HACKATHON 
